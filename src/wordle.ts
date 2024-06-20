@@ -17,6 +17,8 @@ export function wordle(client: Client, mess: Message): void {
     attemptString[i] = "\\_ \\_ \\_ \\_ \\_\n";
   }
 
+  console.log(gameWord);
+
   mess.channel.send({ embeds: [wordleEmbedBuilder()] });
   client.on("messageCreate", guess);
 
