@@ -6,6 +6,10 @@ The rules are similar to the popular web version of the game, where you have 6 t
 
 Whether you're a Wordle enthusiast or new to the game, this bot aims to enhance your Discord server with fun and collaborative word-solving sessions. Get started by inviting the bot to your server and exploring its features!
 
+## Demo Video
+
+https://github.com/DuyPham169/WordleBot/assets/117872971/53c15537-3491-41df-9fb5-a9ad697860e2
+
 ## Gameplay Instructions
 
 ### Generation
